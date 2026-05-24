@@ -163,3 +163,5 @@ If the parquet file already exists, you can skip directly to Task 3:
 
 ---
 
+AI Usage Statement
+AI tools (Claude by Anthropic) were used as support during this assignment for code structuring, debugging, and report writing. All submitted work reflects my own understanding of the methods, results, and design decisions, as demonstrated in the video walkthrough.
