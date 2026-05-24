@@ -41,7 +41,7 @@ The dataset records mobile internet traffic across a 100×100 grid (10,000 geogr
 
 ```bash
 # 1. Clone the repository
-git clone 
+git clone https://github.com/falyseck/ML-MT1-Formative1/tree/main
 cd ML-MT1-Formative1
 
 # 2. Create a virtual environment
@@ -60,8 +60,8 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repository
-git clone 
-cd 
+git clone https://github.com/falyseck/ML-MT1-Formative1/tree/main
+cd ML-MT1-Formative1
 
 # 2. Create a virtual environment
 python3 -m venv venv
